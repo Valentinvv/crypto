@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5559815-b656-4219-accb-f309447d21d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1hn1BhRUl0bvI930rTgYmO1UCzx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Users\User\AndroidStudioProjects\A2045267\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5559815-b656-4219-accb-f309447d21d9" name="Default Changelist" comment="" />
+      <created>1600631908615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600631908615</updated>
+      <workItem from="1600952672555" duration="56000" />
+      <workItem from="1600952732431" duration="1729000" />
+      <workItem from="1600954769836" duration="1045000" />
+      <workItem from="1600973566621" duration="1588000" />
+      <workItem from="1601048932895" duration="699000" />
+      <workItem from="1601072579396" duration="399000" />
+      <workItem from="1601118777538" duration="1066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="243" key="#PSD" timestamp="1600802838917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="391" y="243" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1600802838917" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600812428698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600812428698" />
+    <state x="718" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600809600079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1600809600079" />
+    <state x="1469" y="721" width="290" height="319" key="AndroidProcessChooserDialog" timestamp="1600809280122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1469" y="721" width="290" height="319" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600809280122" />
+    <state x="654" y="266" key="FileChooserDialogImpl" timestamp="1601216395479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601216395479" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1601208543415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601208543415" />
+    <state x="362" y="80" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600845956140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="80" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600845956140" />
+    <state x="571" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1601208719505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208719505" />
+    <state x="514" y="37" width="775" height="801" key="find.popup" timestamp="1600953867049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="37" width="775" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600953867049" />
+    <state x="530" y="238" key="run.anything.popup" timestamp="1600802575218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600802575218" />
+  </component>
+</project>
