@@ -50,6 +50,9 @@ const Body: React.FC<PropsType> = (props) => {
       )}
       <View style={senderMe ? styles.message_me : styles.message_friend}>
         <Text style={senderMe ? styles.text_me : styles.text_friend}>
+          {props.message.images.map((image: any) => {
+            return <Image source={requere(image)} style={/*styles for images here*/}/>
+          })}
           {props.message.chmText}
         </Text>
         <Text style={styles.time}>{props.message.chmTS}</Text>

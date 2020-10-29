@@ -8,6 +8,7 @@ import AuthReducer from "~/Redux/Reducers/AuthReducers/AuthSetReducer"
 import AuthGetReducer from "~/Redux/Reducers/AuthReducers/AuthGetReducer"
 // Chats reducer
 import ChatsGetReducer from "~/Redux/Reducers/ChatsReducers/ChatsGetReducer"
+import ChatsSetReducer from "~/Redux/Reducers/ChatsReducers/ChatsSetReducer"
 // Finances reducers
 import FinancesGetReducer from "~/Redux/Reducers/FinancesReducers/FinancesGetReducer"
 import FinancesSetReducer from "~/Redux/Reducers/FinancesReducers/FinancesSetReducer"
@@ -27,6 +28,7 @@ let reducers = combineReducers({
   AuthGetState: AuthGetReducer,
   // Chats reducers
   ChatsGetState: ChatsGetReducer,
+  ChatsSetState: ChatsSetReducer,
   //Finances reducers
   FinancesGetState: FinancesGetReducer,
   FinancesSetState: FinancesSetReducer,
